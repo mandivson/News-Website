@@ -1,7 +1,7 @@
 // console.log("This is my index js file");
 
 function requestXml(source,name) {
-  let apiKey = '376ebc2ea366462db809cb0be1828359';
+  let apiKey = 'apikey';
 
   // Grab the news container
   let newsAccordion = document.getElementById('newsAccordion');
